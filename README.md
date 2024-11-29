@@ -24,9 +24,10 @@
 - 🚀 **Mobinautica**: Lead Developer for a cross-platform mobile app with over 10 million downloads (iOS, Android, Amazon). Integrated Unity and automated CI/CD pipelines.
 - 🍎 **Cider**: AI-powered invitation system built with Framer and AI tools.
 - 📱 **Hints**: Developed a cross-platform note-taking app with an AI assistant (GPT integration) for web, iOS, and Android.
-
+<!---
 ### 📙 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasihc&layout=compact&theme=radical)
+-->
 
 ### 📧 Write me a message
 - Email: vasihc@gmail.com
