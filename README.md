@@ -22,7 +22,7 @@
 
 ### 📚 Projects & Achievements
 - 🚀 **Mobinautica**: Lead Developer for a cross-platform mobile app with over 10 million downloads (iOS, Android, Amazon). Integrated Unity and automated CI/CD pipelines.
-- 🍎 **Cider**: AI-powered invitation system built with Framer and AI tools.
+- 🍎 **Cider**: Lightning fast campaign management and bidding automation platform for Apple Search Ads
 - 📱 **Hints**: Developed a cross-platform note-taking app with an AI assistant (GPT integration) for web, iOS, and Android.
 <!---
 ### 📙 Most Used Languages
